@@ -11,8 +11,8 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>Climate-news coverage (1990-2023)</b></td>
-<td align="center"><b>Contribution of climate-risk factors</b></td>
+<td align="center"><b>Climate-news coverage (2005-2023)</b></td>
+<td align="center"><b>Climate-risk factors</b></td>
 </tr>
 <tr>
 <td><img src="pics/climate_news_coverage.png" alt="Climate news coverage over time" width="400"></td>
