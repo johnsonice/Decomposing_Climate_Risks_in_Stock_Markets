@@ -9,17 +9,16 @@
 ---
 
 <div align="center">
-</div>
-<div align="center">
-<img src="pics/climate_news_coverage.png" alt="Climate news coverage over time" width="70%">
-</div>
-
----
-
-<div align="center">
-</div>
-<div align="center">
-<img src="pics/climate_risk_factor.png" alt="Risk-factor decomposition" width="70%">
+<table>
+<tr>
+<td align="center"><b>Climate-news coverage (1990-2023)</b></td>
+<td align="center"><b>Contribution of climate-risk factors</b></td>
+</tr>
+<tr>
+<td><img src="pics/climate_news_coverage.png" alt="Climate news coverage over time" width="400"></td>
+<td><img src="pics/climate_risk_factor.png" alt="Risk-factor decomposition" width="385"></td>
+</tr>
+</table>
 </div>
 
 ---
