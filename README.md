@@ -8,6 +8,12 @@
 
 ---
 
+| Climate-news coverage (1990-2023) | Contribution of climate-risk factors |
+|:--:|:--:|
+| ![Climate news coverage over time](pics/climate_news_coverage.png) | ![Risk-factor decomposition](pics/climate_risk_factor.png) |
+
+---
+
 ## 🚀 Quick start
 
 ```bash
