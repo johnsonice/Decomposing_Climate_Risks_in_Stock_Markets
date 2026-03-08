@@ -26,6 +26,10 @@ numpy>=1.26.0
 scikit-learn>=1.4.0
 matplotlib>=3.8.0
 
+# Traditional NLP / sentiment
+nltk>=3.8.0
+textblob>=0.18.0
+
 # Misc
 python-dotenv>=1.0.1
 protobuf>=4.25.0 
